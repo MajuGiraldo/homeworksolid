@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d82aacdb-eab1-41f4-9288-7ad893db3d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/Envio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/Envio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/Email.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/service/EnvioMaterial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/EnvioMaterial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/Estudiante.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -34,16 +36,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/dsaavedra/Documents/unisabana/repo/homework-solid/src",
-    "nodejs_package_manager_path": "npm"
-  }
-}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -89,10 +81,23 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Correcion" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

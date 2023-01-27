@@ -9,7 +9,7 @@ public class Estudiante {
         this.nombre = nombre;
         this.carrera = carrera;
     }
-
+    //Este método no se utiliza
     void guardarEstudiante() {
         System.out.println("Guardando estudiante en base de datos");
     }
