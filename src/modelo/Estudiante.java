@@ -1,15 +1,19 @@
 package modelo;
+import java.util.ArrayList;
+import java.util.List;
 
-public class Estudiante {
+public abstract class Estudiante {
 
     public String nombre;
-    public String carrera;
 
-    public Estudiante(String nombre, String carrera) {
+    public Estudiante(String nombre) {
         this.nombre = nombre;
-        this.carrera = carrera;
     }
-    //Este método no se utiliza
+
+    abstract public void mostrarMaterias();
+
+    abstract public Envio mostrarMensaje();
+
     void guardarEstudiante() {
         System.out.println("Guardando estudiante en base de datos");
     }
